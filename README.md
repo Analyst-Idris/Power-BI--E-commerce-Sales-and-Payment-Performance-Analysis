@@ -14,9 +14,9 @@ As the business scales, it faces increasing complexity in managing **sales perfo
 Despite achieving $36.35 million in revenue and over 81,000 unit sales, ElectroSphere Global faces several pressing challenges. Sales performance is inconsistent across regions, indicating uneven market engagement. A high volume of failed and pending payment transactions is also affecting revenue realization and customer trust. Additionally, shifting demand across product categories complicates inventory and sales planning. Compounding these issues is the lack of real-time visibility into key sales and payment metrics, making it difficult for the company to respond quickly and make informed decisions. A data-driven approach is essential to address these challenges and drive operational efficiency.
 
 
-## Monitor Core Sales KPIs
+### 1. Monitor Core Sales KPIs
 
-### **.** Track total orders, units sold, and revenue.
+   **.** Track total orders, units sold, and revenue.
 
 Compare current sales performance with previous months to evaluate growth trends.
 
