@@ -9,6 +9,6 @@
 
 As the business scales, it faces increasing complexity in managing **sales performance, regional variations, and customer payment behaviors**. To sustain growth and remain competitive, the company seeks to make smarter, data-driven decisions.
 
-# Problem statement
+# Problem Statement
 
 Despite achieving $36.35 million in revenue and over 81,000 unit sales, ElectroSphere Global faces several pressing challenges. Sales performance is inconsistent across regions, indicating uneven market engagement. A high volume of failed and pending payment transactions is also affecting revenue realization and customer trust. Additionally, shifting demand across product categories complicates inventory and sales planning. Compounding these issues is the lack of real-time visibility into key sales and payment metrics, making it difficult for the company to respond quickly and make informed decisions. A data-driven approach is essential to address these challenges and drive operational efficiency.
