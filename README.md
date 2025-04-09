@@ -16,7 +16,7 @@ Despite achieving $36.35 million in revenue and over 81,000 unit sales, ElectroS
 
 ### 1. Monitor Core Sales KPIs
 
-   **.** Track total orders, units sold, and revenue.
+   * Track total orders, units sold, and revenue.
 
 Compare current sales performance with previous months to evaluate growth trends.
 
