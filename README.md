@@ -18,22 +18,22 @@ Despite achieving $36.35 million in revenue and over 81,000 unit sales, ElectroS
 
    * Track total orders, units sold, and revenue.
 
-Compare current sales performance with previous months to evaluate growth trends.
+   * Compare current sales performance with previous months to evaluate growth trends.
 
-Evaluate Payment Method Performance
+### 2. Evaluate Payment Method Performance
 
-Analyze the usage and success rate of payment options (PayPal, Credit Card, Bank Transfer).
+    * Analyze the usage and success rate of payment options (PayPal, Credit Card, Bank Transfer).
 
-Identify bottlenecks or failure rates in transaction processing.
+    * Identify bottlenecks or failure rates in transaction processing.
 
-Identify Product Performance Trends
+### 3. Identify Product Performance Trends
 
-Highlight top-selling and low-performing products to guide inventory planning and promotions.
+    * Highlight top-selling and low-performing products to guide inventory planning and promotions.
 
-Visualize Regional Sales Distribution
+### 4. Visualize Regional Sales Distribution
 
-Assess geographic sales distribution to detect strong and underperforming markets.
+    * Assess geographic sales distribution to detect strong and underperforming markets.
 
-Build an Interactive Reporting Tool
+### 5. Build an Interactive Reporting Tool
 
-Enable slicing by time (week, quarter) and region for dynamic exploration of insights by stakeholders.
+    * Enable slicing by time (week, quarter) and region for dynamic exploration of insights by stakeholders.
