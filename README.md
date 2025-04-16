@@ -37,3 +37,6 @@ Despite achieving $36.35 million in revenue and over 81,000 unit sales, ElectroS
 ### 5. Build an Interactive Reporting Tool
 
     * Enable slicing by time (week, quarter) and region for dynamic exploration of insights by stakeholders.
+
+
+
