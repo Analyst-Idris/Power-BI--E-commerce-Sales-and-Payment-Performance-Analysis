@@ -24,7 +24,24 @@ Despite achieving $36.35 million in revenue and over 81,000 unit sales, ElectroS
 
 # Data Dictionary 
 
-![Image](https://github.com/user-attachments/assets/4b8c2663-e928-4431-8d63-a79e04e0a320)
+| Column Name         | Description                                                    | Data Type |
+|---------------------|----------------------------------------------------------------|-----------|
+| Order ID            | Unique identifier for each order                              | Integer   |
+| Date                | Date when the order was placed                                 | Date      |
+| Customer ID         | Unique identifier for each customer                           | String    |
+| Product ID          | Unique identifier for each product                             | Integer   |
+| Product Name        | Name of the product ordered                                    | Text      |
+| Category            | Product category (e.g., Electronics, Accessories)              | Text      |
+| Quantity            | Number of units ordered                                        | Integer   |
+| Price per Unit      | Cost of a single unit of the product                           | Float     |
+| Total Sale Amount   | Total revenue generated from the order (Quantity × Price/Unit) | Float     |
+| Payment Method      | Mode of payment used by the customer                           | Text      |
+| Payment Status      | Status of the payment (Pending, Completed, Failed)             | Text      |
+| Country             | Country from which the order was placed                        | Text      |
+| Continent           | Continent of the customer's country                            | Text      |
+
+
+
 
 # Methodology
 
@@ -49,7 +66,7 @@ This calendar table was then linked to the e-commerce dataset through the order 
 
 # Dashboard Visual
 
-![Image](https://github.com/user-attachments/assets/453cad8f-c803-497e-9ad2-ef6a3e48107d)
+![Image](https://github.com/user-attachments/assets/6f9cc52f-f059-454b-b0f2-ecfed8c6f5c5)
 
 # Key Insights from E-commerce-Sales-and-Payment-Performance-Analysis:
 
@@ -160,4 +177,4 @@ The regional map shows uneven sales distribution across continents. To enhance m
 For any collaborative work or gigs, reach out to me at:
 
 📧 Email: oladejoidris55@gmail.com
-📞 Phone: 07025062857
+📱 +234 7025062857
