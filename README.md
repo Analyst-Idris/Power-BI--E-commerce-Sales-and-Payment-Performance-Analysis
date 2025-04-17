@@ -177,4 +177,4 @@ The regional map shows uneven sales distribution across continents. To enhance m
 For any collaborative work or gigs, reach out to me at:
 
 📧 Email: oladejoidris55@gmail.com
-📱 +234 7025062857
+📱 WhatsApp:(+234) 7025062857
